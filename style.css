@@ -79,3 +79,13 @@
 .twitter-link:visited {
   color: #1DA1F2;
 }
+
+.instagram-link {
+  color: #C13584;
+}
+.instagram-link:hover {
+  text-decoration: none;
+}
+.instagram-link:visited {
+  color: #C13584;
+}
