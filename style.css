@@ -33,3 +33,15 @@
   background-color: #e6e6e6;
   font-size: 13px;
 }
+
+/** LINKS **/
+.github-link {
+  color: black;
+  text-decoration: underline;
+}
+.github-link:hover {
+  text-decoration: none;
+}
+.github-link:visited {
+  color: black;
+}
