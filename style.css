@@ -32,6 +32,11 @@
   bottom: 15px;
   background-color: #e6e6e6;
   font-size: 13px;
+  background: rgba(0, 0, 0, 0.07);
+  padding: 10px 15px;
+  border-radius: 22px;
+  display: inline-block;
+  margin-right: 5px;
 }
 
 @media (max-width: 700px) {
