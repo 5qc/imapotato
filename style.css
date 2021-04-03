@@ -45,3 +45,7 @@
 .github-link:visited {
   color: black;
 }
+
+.font {
+  font-family: 'Source Code Pro', monospace;
+}
