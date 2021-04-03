@@ -34,6 +34,12 @@
   font-size: 13px;
 }
 
+@media (max-width: 700px) {
+  .sitter {
+    display: none;
+  }
+}
+
 /** LINKS **/
 .github-link {
   color: black;
