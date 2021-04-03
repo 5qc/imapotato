@@ -26,3 +26,10 @@
   -webkit-user-drag: none;
   user-drag: none;
 }
+
+.bro {
+  position: fixed;
+  bottom: 11px;
+  background-color: #e6e6e6;
+  font-size: 13px;
+}
